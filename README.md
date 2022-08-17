@@ -33,4 +33,4 @@ You will only need to do this once unless you delete your VM.
 1. Type: ```docker attach cse3320```
 
 ## Stopping your VM
-1. Type: ```docker stop```
+1. Type: ```docker stop cse3320```
