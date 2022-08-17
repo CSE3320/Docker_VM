@@ -21,11 +21,11 @@ You will only need to do this once unless you delete your VM.
 1. Open a command prompt or terminal and change to your Docker_VM directory
 2. Create the VM with: ```docker run -it --name=cse3320 -d -v ${PWD}/Code:/home/cse3320 tbakker/cse3320```
 
-# Starting the VM
+## Starting the VM
 1. Type: ```docker start cse3320```
 
-# Attaching to the VM ( Logging into your VM )
+## Attaching to the VM ( Logging into your VM )
 1. Type: ```docker attach cse3320```
 
-# Stopping your VM
+## Stopping your VM
 1. Type: ```docker stop```
