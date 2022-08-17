@@ -1,12 +1,10 @@
 # Docker_VM
 Docker Virtual Machine for CSE 3320 development
 
-Directory Layout:
+Contents of this Repository:
 
-Docker_VM
-    Code
-    
-    
+Code - A shared directory for your code
+Dockerfile - Configuration file for this directory.
 
 # Installing the VM
 ## Installing Docker
