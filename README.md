@@ -1,4 +1,4 @@
-![Docker Whale Logo](https://github.com/CSE3320/Docker_VM/blob/main/docker_whale.png?raw=true)
+![Docker Whale Logo](https://github.com/CSE3320/Docker_VM/blob/main/docker_whale.jpg?raw=true)
 
 # Docker_VM
 Docker Virtual Machine for CSE 3320 development
