@@ -13,4 +13,4 @@ If you do not have git installed on your computer go to https://git-scm.com/down
 # Creating your workspace
 1. Create a directory to hold your VM and code for your assignments
 2. Clone this repository with:
-''' git clone https://www.github.com/CSE3320/Docker_VM '''
+``` git clone https://www.github.com/CSE3320/Docker_VM ```
