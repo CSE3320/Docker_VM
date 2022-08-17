@@ -1,4 +1,4 @@
-https://github.com/CSE3320/Docker_VM/blob/main/image.jpg?raw=true
+(https://github.com/CSE3320/Docker_VM/blob/main/image.jpg?raw=true)
 
 # Docker_VM
 Docker Virtual Machine for CSE 3320 development
