@@ -36,9 +36,9 @@ You will only need to do this once unless you delete your VM.
 1. Type: ```docker stop cse3320```
 
 ## Update your container to the latest
-1. docker stop cse3320
-2. docker system prune
-3. docker rmi $(docker images -a -q)
-4. docker run -it --name=cse3320 -d -v ${PWD}/Code:/home/cse3320 tbakker/cse3320
-5. docker start cse3320
-6. docker attach cse3320
+1. ``` docker stop cse3320```
+2. ```docker system prune```
+3. ```docker rmi $(docker images -a -q)```
+4. ```docker run -it --name=cse3320 -d -v ${PWD}/Code:/home/cse3320 tbakker/cse3320```
+5. ```docker start cse3320```
+6. ```docker attach cse3320```
