@@ -24,7 +24,8 @@ If you do not have git installed on your computer go to https://git-scm.com/down
 You will only need to do this once unless you delete your VM.
 
 1. Open a command prompt or terminal and change to your Docker_VM directory
-2. Create the VM with: ```docker run -it --name=cse3320 -d -v ${PWD}/Code:/home/cse3320 tbakker/cse3320```
+2. Linux and macOS: Create the VM with: ```docker run -it --name=cse3320 -d -v ${PWD}/Code:/home/cse3320 tbakker/cse3320```
+   Windows: : Create the VM with: ```docker run -it --name=cse3320 -d -v "%cd%"/Code:/home/cse3320 tbakker/cse3320```
 
 ## Starting the VM
 1. Type: ```docker start cse3320```
